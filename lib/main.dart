@@ -7,8 +7,6 @@ void main() {
   );
 }
 
-//teststudy  wdad
-
 class TestApp extends StatelessWidget {
   const TestApp({Key? key}) : super(key: key);
 
